@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\61364f8817c4ff3be29d0daa1db2cb7beb73bd91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_85329c9b574b9a3b67d7ea164928400d04f6ec1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\a0baea57bc1fca5bce929e4e780f7433f513f406\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_521ff8b8985fccf49da5ccd9def2472c755b0b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\100c05258b32c7fae8cff57a3b9a52232a67836c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_bd58154b95c5e8f4a35678b89460028b022295c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\57b55247f7652d751c59939b4ca84fed05f019b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_9501c104cbf8bb57018b12053a24df52b6daf7a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_87b3a2d87fad98d9635dc2fe42a2ef4f2fad1977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\8d35624d8b1aa7016cdd1a96331fca01b45131ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_0030f99a35791af9396d1cf1d04d263812d5bb5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\55a6856a1410d63d0fff0d9701a5683bf311a052\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_0ef9624e78b620aaf8b68e2d852ac686c1cf5852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_95a01d41af6e8a43bd0ae980f2195cbabf59ca0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\37f4aafa5546c58e012e98cf4f9dba74a0fc2c2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49cfe618ead4198c63130e6f6c82e1dd213af3b3">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_4fe845811160ec4570825829e4b78089fd5f7770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\0ef1e7a7baef2caf4aa38cc8fb5252de1b6ba910\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_bdec37916691183436c57d4cc331b92a661911c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\gson-2.8.0_790d5c7494ca89a04a8bc881ea02614e0a5f01c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\67d5727c173bd9bcd74db83bca779f8bd2141bd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_47061bfe6b1ca58346596da76fa03e349fe5556d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\a5ee38b9235c33c1794859f2fc02a99244d4bd03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_64261451fda7e2ab60441c3b19c09eeb97030743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\7c9b2cb1d5a9b903ed4441cc5b7b5e9fc70a4f11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_f287f26b098f3f148f0ae67340341d2877e8145e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\4cb4d8a6aee7f5db5db96e9aca28954f56b8c020\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_78dc4cf3608acbeadde6dc8c876176718b2cb432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\94a4a407e28826c5e5726d2bf7638a6ddd4c4887\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_3b0cb69d6505b8ae73f5836f20cd92b7d80d4150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Roy Saurav\.android\build-cache\1d41fc1be1aca0b6dd820d18407424c291014881\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Roy Saurav\AndroidStudioProjects\AndroidSimsimi\app\build\intermediates\pre-dexed\debug\classes_3fda33ce14920b7f804ad64e586d7df384936c42.jar" />
+    </item>
+
+</items>
